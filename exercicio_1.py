@@ -1,4 +1,4 @@
-usernumber=int(input('Digite um número inteiro:'))
+usernumber=int(input('Digite um número:'))
 if (usernumber%2) == 0:
     print('Par')
 else:
